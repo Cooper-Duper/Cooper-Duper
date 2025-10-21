@@ -1,5 +1,4 @@
 Cooper Tarbuck
 
 ## Education
-- 4 Years, Maranacook Community High School
-- Currently a 1st year at Northeastern University
+- Currently a first-year Computer Science major at Northeastern University, with an expected graduation in the spring of 2029
